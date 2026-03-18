@@ -1,4 +1,4 @@
-Advisory - OpenClaw-Moltbook AI Assistant Risks
+# Advisory - OpenClaw-Moltbook AI Assistant Risks
 
 ***
 
